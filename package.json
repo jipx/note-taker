@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/ui-react": "^4.5.1",
+    "aws-amplify": "^5.0.25",
     "dayjs": "^1.8.16",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
