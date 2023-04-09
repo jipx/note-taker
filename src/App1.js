@@ -6,6 +6,8 @@ import { Card, Icon, Input, Form, TextArea, Button, Grid } from "semantic-ui-rea
 import { v4 as uuid } from "uuid";
 import dayjs from "dayjs";
 
+
+
 class App extends Component {
   state = {
     note: { title: "", text: "", date: null },
